@@ -2,7 +2,8 @@
 A Library Management Software, made with [Flutter](https://flutter.dev/?gclid=EAIaIQobChMIiPWI9PyF_QIV2zUrCh1JXQLiEAAYASAAEgIAIfD_BwE&gclsrc=aw.ds "Learn About Flutter") as the frontend, built primarly for desktop, using [Laravel](https://laravel.com/ "Learn About Laravel") as the backend, developed with help from [Shivansh Gupta](https://github.com/gshivg "Shivansh").
 
 ## Setting Up Flutter
-![Flutter](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="600" alt="Laravel Logo"></a></p>
 
 Start by installing [Flutter](https://docs.flutter.dev/get-started/install "Install Flutter") on your machine.
 > Make sure you have version 2.19.1 or higher
